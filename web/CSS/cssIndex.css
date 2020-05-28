@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28-may-2020, 18:33:16
+    Author     : CARLOS GARCÍA DE CASTRO
+*/
+
+body {
+
+    background-color: #4882b0;
+}
+
+h3 {
+
+    font-family: Helvetica;
+}
+
+p {
+
+    font-family: Helvetica;
+}
+
+form {
+    border: black 1px solid;
+   
+    padding-top:.5em;
+    padding-right:1em;
+    padding-bottom:.5em;
+    padding-left:1em;
+
+}
+
+.div01 {
+    margin-top: 2em;
+    background: #67a1cf;
+    height: 80px;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.div02 {
+    background: #67a1cf;
+    height: 280px;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+input {
+    margin: .2em;
+    border-radius: 3px;
+    
+}
+
+
